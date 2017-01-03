@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/d850/full_d850.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Enhanced NFC
