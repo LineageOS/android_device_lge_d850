@@ -24,6 +24,7 @@ TARGET_OTA_ASSERT_DEVICE := g3,d850
 BOARD_HAVE_BLUETOOTH_QCOM := true
 BLUETOOTH_HCI_USE_MCT := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/d850/bluetooth
+BOARD_CUSTOM_BT_CONFIG := device/lge/d850/bluetooth/vnd_g3.txt
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_d850_defconfig
