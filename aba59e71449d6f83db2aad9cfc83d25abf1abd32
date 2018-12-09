@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "64581176_ba6f684c",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-12-09T18:02:35Z",
+      "side": 1,
+      "message": "Less important: Why was this moved to after the spec block?\nMore important: You dropped 2017 as a copyright year for LineageOS. It should read \"Copyright 2017-2018 - The LineageOS Project\"",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 38
+      },
+      "revId": "aba59e71449d6f83db2aad9cfc83d25abf1abd32",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
