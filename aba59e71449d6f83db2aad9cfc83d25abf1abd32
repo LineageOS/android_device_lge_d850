@@ -22,6 +22,30 @@
       "revId": "aba59e71449d6f83db2aad9cfc83d25abf1abd32",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "d2be9de1_6aa78981",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 19837
+      },
+      "writtenOn": "2018-12-12T23:00:24Z",
+      "side": 1,
+      "message": "\u003e Less important: Why was this moved to after the spec block?\n\u003e More important: You dropped 2017 as a copyright year for LineageOS. It should read \"Copyright 2017-2018 - The LineageOS Project\"\n\nhttps://github.com/LineageOS/android_device_oneplus_enchilada\nI took the copyright from enchilada and added Cyanogen as it was there.",
+      "parentUuid": "64581176_ba6f684c",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 38
+      },
+      "revId": "aba59e71449d6f83db2aad9cfc83d25abf1abd32",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
