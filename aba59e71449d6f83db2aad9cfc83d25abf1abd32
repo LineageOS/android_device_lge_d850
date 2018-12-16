@@ -46,6 +46,30 @@
       "revId": "aba59e71449d6f83db2aad9cfc83d25abf1abd32",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4844d0fc_ac8546ee",
+        "filename": "README.md",
+        "patchSetId": 6
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 15173
+      },
+      "writtenOn": "2018-12-16T14:56:51Z",
+      "side": 1,
+      "message": "You don\u0027t just take copyrights from a completely different thing. As is, this change eliminates the 2017 LineageOS copyright to this file.",
+      "parentUuid": "d2be9de1_6aa78981",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 38
+      },
+      "revId": "aba59e71449d6f83db2aad9cfc83d25abf1abd32",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
     }
   ]
 }
